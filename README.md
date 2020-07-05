@@ -1,3 +1,3 @@
 # Portfolio
 
-A portfolio build by using flutter for web.
+A portfolio built using flutter.
