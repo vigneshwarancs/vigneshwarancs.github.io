@@ -46,10 +46,22 @@ class Strings {
   ];
 
   static final educationList = [
+     Education(
+      'September 2021',
+      'Present',
+      'Amazon',
+      'Software Development Engineer',
+    ),
+     Education(
+      'July 2021',
+      'September 2021',
+      'TigerGraph',
+      'Solutions Architect Engineer/Software Engineer',
+    ),
     Education(
       'June 2020',
-      'Present',
-      'Elevate',
+      'August 2020',
+      'Elevate Credit Services',
       'Software Engineer Intern',
     ),
     Education(
